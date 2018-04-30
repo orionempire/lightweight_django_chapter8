@@ -1,0 +1,4 @@
+.idea/
+database/
+*.py[co]
+*.DS_Store
